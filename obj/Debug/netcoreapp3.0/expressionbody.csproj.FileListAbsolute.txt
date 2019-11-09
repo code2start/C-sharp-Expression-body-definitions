@@ -1,0 +1,11 @@
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.exe
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.deps.json
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.runtimeconfig.json
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.runtimeconfig.dev.json
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.dll
+C:\csharp\ar\expressionbody\bin\Debug\netcoreapp3.0\expressionbody.pdb
+C:\csharp\ar\expressionbody\obj\Debug\netcoreapp3.0\expressionbody.csprojAssemblyReference.cache
+C:\csharp\ar\expressionbody\obj\Debug\netcoreapp3.0\expressionbody.AssemblyInfoInputs.cache
+C:\csharp\ar\expressionbody\obj\Debug\netcoreapp3.0\expressionbody.AssemblyInfo.cs
+C:\csharp\ar\expressionbody\obj\Debug\netcoreapp3.0\expressionbody.dll
+C:\csharp\ar\expressionbody\obj\Debug\netcoreapp3.0\expressionbody.pdb
